@@ -4,7 +4,7 @@ import br.com.omnipet.model.Usuario;
 import br.com.omnipet.repository.UsuarioRepository;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
+        import java.util.List;
 
 @RestController
 @RequestMapping("/usuarios")
